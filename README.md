@@ -1,1 +1,1 @@
-#wavのmulaw変換用コード
+# wavのmulaw変換用コード
